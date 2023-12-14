@@ -38,15 +38,16 @@ Add new events.
 View staff's own profile.
 Change the staff's password.
 ![Screenshot 2023-12-14 210332](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/4174da64-d231-4a0c-ab7b-f557ad11a042)
-![Screenshot 2023-12-14 212159](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/a1c8bb8a-c9e9-44ae-be4e-d256eb0202c5)
 ![Screenshot 2023-12-14 204603](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/52809e05-6e09-4c63-a034-5f91b16b3969)
+
+
 *Student Module
 Event Participation:
 
 View a list of available events.
 Join events.
 
-
+![Screenshot 2023-12-14 212159](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/a1c8bb8a-c9e9-44ae-be4e-d256eb0202c5)
 ![Screenshot 2023-12-14 212549](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/03f244da-ca14-4fed-917f-7132d59fef0a)
 
 
