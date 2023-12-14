@@ -34,3 +34,5 @@ Event Participation:
 
 View a list of available events.
 Join events.
+![Screenshot 2023-12-14 204822](https://github.com/kanaklata-Lakkawar/College-Event-Administration-System/assets/114863229/8741440d-97f6-4dc2-9484-42708c1d62d2)
+
