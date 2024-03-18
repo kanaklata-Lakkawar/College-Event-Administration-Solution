@@ -1,5 +1,5 @@
 # College Event Administration Solution
-The College Administration Event System is a comprehensive Java-based web application designed to streamline event management within a college environment. This project employs Java Servlet,JDBC, MySQL, and HTML, CSS, technologies to create a robust system that caters to administrators, staff, and students.
+The College Administration Event Solution is a comprehensive Java-based web application designed to streamline event management within a college environment. This project employs Java Servlet,JDBC, MySQL, and HTML, CSS, technologies to create a robust system that caters to administrators, staff, and students.
 
 Features
 *Admin Module
